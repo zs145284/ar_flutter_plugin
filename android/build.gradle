@@ -33,6 +33,7 @@ android {
     defaultConfig {
         minSdkVersion 24
     }
+    namespace = "com.zs.ar_flutter_plugin"
 }
 
 dependencies {
